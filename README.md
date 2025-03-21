@@ -1,12 +1,14 @@
 ## Topic_wise_MySql_Questions
-### Note: I am going to add questions in it time to time
-### if you like it please share your feedback
+### Note: I am going to add questions to it from time to time
+### If you like it please share your feedback
 
 #### content in each file
 ##### 1) Tables
-##### 2) tabl content
+##### 2) table content
 ##### 3) Questions
 ##### 4) Answers
+
+## Topics covered
 
 1) Window Functions
 2) Case_Statment
