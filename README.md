@@ -45,9 +45,9 @@ Each topic folder contains the following files:
 ## 💡 Contribute & Feedback
 🔹 Found an error or have a suggestion? Feel free to contribute by adding more questions or improving explanations!  
 🔹 Enjoying this collection? Drop a ⭐️ on GitHub or share your thoughts!
-🔹 LinkedIn: [https://www.linkedin.com/in/abhishek-raut-215191249/]
-🔹 Email: abhiraut1224@gmail.com
-🔹 Portfolio: [https://abhishekraut1224.github.io/abhiporfolio/]
+🔹 LinkedIn: [https://www.linkedin.com/in/abhishek-raut-215191249/].
+🔹 Email: abhiraut1224@gmail.com.
+🔹 Portfolio: [https://abhishekraut1224.github.io/abhiporfolio/].
 
 Happy Querying! 🎯
 
