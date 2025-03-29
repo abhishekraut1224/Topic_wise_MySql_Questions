@@ -1,22 +1,53 @@
-## Topic_wise_MySql_Questions
-### Note: I am going to add questions to it from time to time
-### If you like it please share your feedback
+# 📌 Topic-wise MySQL Questions
 
-#### content in each file
-##### 1) Tables
-##### 2) table content
-##### 3) Questions
-##### 4) Answers
+## 🔥 Welcome!
+This repository contains a **comprehensive set of MySQL questions** categorized by different topics. You can use this as a reference for learning, revision, or interview preparation. New questions will be added over time, so stay tuned! 🚀
 
-## Topics covered
+If you find this helpful, **share your feedback** and contribute to improving it! 😊
 
-1) Window Functions
-2) Case_Statment
-3) CTEs
-4) Date and time
-5) Group by
-6) indexing
-7) jon_groupby_where
-8) joins
-9) Subqueries
-10) where_clause
+---
+
+## 📂 Content Structure
+Each topic folder contains the following files:
+
+1️⃣ **Tables** – Schema and structure of sample tables used in queries.  
+2️⃣ **Table Content** – Sample data for practical execution.  
+3️⃣ **Questions** – Topic-specific MySQL questions.  
+4️⃣ **Answers** – Detailed solutions with explanations.  
+
+---
+
+## 📖 Topics Covered
+
+| #  | Topic Name           | Description |
+|----|----------------------|-------------|
+| 1  | **Window Functions** | Learn advanced analytical functions in SQL. |
+| 2  | **CASE Statement**   | Conditional logic within SQL queries. |
+| 3  | **CTEs (Common Table Expressions)** | Temporary result sets for complex queries. |
+| 4  | **Date and Time**    | Handling timestamps, intervals, and formatting. |
+| 5  | **GROUP BY**         | Aggregation and data grouping techniques. |
+| 6  | **Indexing**         | Optimizing query performance with indexes. |
+| 7  | **Join, GROUP BY, WHERE** | Combining, filtering, and aggregating data. |
+| 8  | **Joins**            | Different types of joins and their applications. |
+| 9  | **Subqueries**       | Nesting queries within queries. |
+| 10 | **WHERE Clause**     | Filtering data efficiently in SQL. |
+
+---
+
+## 🛠 How to Use
+
+1️⃣ **Explore Topics** – Click on a topic folder to see the questions and solutions.  
+2️⃣ **Practice** – Try solving the questions before checking the answers.  
+3️⃣ **Improve** – Optimize queries using indexing and best practices.  
+
+---
+
+## 💡 Contribute & Feedback
+🔹 Found an error or have a suggestion? Feel free to contribute by adding more questions or improving explanations!  
+🔹 Enjoying this collection? Drop a ⭐️ on GitHub or share your thoughts!
+🔹 LinkedIn: [https://www.linkedin.com/in/abhishek-raut-215191249/]
+🔹 Email: abhiraut1224@gmail.com
+🔹 Portfolio: [https://abhishekraut1224.github.io/abhiporfolio/]
+
+Happy Querying! 🎯
+
